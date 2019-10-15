@@ -4,6 +4,7 @@
 
 ## Timeline
 * `2019.10.14` The PyTorch preview version is released in the [lffd branch](https://github.com/becauseofAI/refinanet/tree/lffd).
+* `2019.10.16` Now the [lffd branch](https://github.com/becauseofAI/refinanet/tree/lffd) has been migrated to the repository of [lffd-pytorch](https://github.com/becauseofAI/lffd-pytorch).
 
 ## Introduction
 This is an official enhanced PyTorch implementation of FSD based on the idea of LFFD. **RefinaNet** means REceptive FIeld is Natural Anchor. **FSD** means Fast Single Class Object Detection. **LFFD** means [A Light and Fast Face Detector for Edge Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices).  
