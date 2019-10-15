@@ -3,6 +3,7 @@
 
 ## Timeline
 * `2019.10.14` The PyTorch preview version is released in the lffd branch.
+* `2019.10.16` Now the [lffd branch](https://github.com/becauseofAI/refinanet/tree/lffd) has been migrated to the repository of [lffd-pytorch](https://github.com/becauseofAI/lffd-pytorch). This branch has been deprecated.
 
 ## Introduction
 This repo releases the source code of paper "[LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/abs/1904.10633)". Our paper presents a light and fast face detector (**LFFD**) for edge devices.
